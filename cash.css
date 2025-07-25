@@ -1,0 +1,33 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4faff;
+  color: #333;
+}
+
+header {
+  background-color: #3498db;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+.logo {
+  max-width: 150px;
+}
+
+main {
+  padding: 30px;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+footer {
+  background-color: #ecf0f1;
+  text-align: center;
+  padding: 10px;
+  font-size: 14px;
+}
